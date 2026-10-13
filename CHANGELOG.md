@@ -29,3 +29,4 @@
 - chore: clarify the setup steps
 - fix: fix a small wording issue
 - chore: clarify the setup steps
+- docs: link the usage section
